@@ -34,5 +34,5 @@ def MatchKids(kids):
 
 if __name__ == '__main__':
         MatchKids(kids)
-#        for kid in kids:
-#            print(kid["name"], "has drawn", kid["draw"])
+        for kid in kids:
+            print(kid["name"], "has drawn", kid["draw"])

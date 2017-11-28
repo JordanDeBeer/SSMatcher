@@ -73,7 +73,7 @@ func MatchKids() {
 
 func main() {
 	MatchKids()
-//	for i := 0; i < len(Kids); i++ {
-//		fmt.Println(Kids[i].Name, "has drawn", Kids[i].Draw)
-//	}
+	for i := 0; i < len(Kids); i++ {
+		fmt.Println(Kids[i].Name, "has drawn", Kids[i].Draw)
+	}
 }
