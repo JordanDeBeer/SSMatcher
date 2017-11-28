@@ -1,5 +1,5 @@
 # Ignore "Draw" Binary
-"Draw"
+Draw
 
 # Byte-compiled / optimized / DLL files
 __pycache__/
